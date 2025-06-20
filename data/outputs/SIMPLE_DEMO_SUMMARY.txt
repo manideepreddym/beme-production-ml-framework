@@ -1,0 +1,16 @@
+BEME Framework - Simple Demo Results
+==================================================
+
+Generated: 2025-06-20 11:18:13
+
+DATASET OVERVIEW:
+• Total Records: 1,000
+• Total Bookings: 568
+• Total Revenue: $674,716.93
+• Booking Rate: 56.8%
+• Average Room Rate: $297.57
+
+MARKET SEGMENTS:
+• Leisure: 346 records, 210 bookings, $250,902.92 revenue
+• Corporate: 316 records, 180 bookings, $212,660.51 revenue
+• Business: 338 records, 178 bookings, $211,153.50 revenue

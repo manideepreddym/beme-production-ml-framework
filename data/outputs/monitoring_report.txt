@@ -1,0 +1,28 @@
+BEME FRAMEWORK - MONITORING & DRIFT DETECTION REPORT
+============================================================
+
+Generated: 2025-06-20 14:29:04
+
+DATA QUALITY METRICS:
+--------------------
+Total Records: 5,000
+Missing Values: 0
+Duplicate Records: 0
+Date Range: 2024-06-20 to 2025-06-20
+
+BUSINESS METRICS:
+---------------
+Total Bookings: 1,372
+Total Revenue: $875,244.43
+Conversion Rate: 27.4%
+Average Daily Rate: $301.83
+Revenue per Booking: $637.93
+Average Occupancy: 72.1%
+
+MODEL PERFORMANCE MONITORING:
+------------------------------
+Rate Model MAE: $19.50
+Rate Model R²: 0.932
+Booking Model AUC: 0.580
+Model Status: NEEDS_ATTENTION
+

@@ -1,0 +1,47 @@
+BEME FRAMEWORK - HOTEL BOOKING ANALYSIS REPORT
+============================================================
+
+Generated: 2025-06-20 14:29:04
+
+MARKET SEGMENT PERFORMANCE:
+------------------------------
+Group:
+  • Total Bookings: 196
+  • Conversion Rate: 26.2%
+  • Average Rate: $297.84
+  • Total Revenue: $128,456.13
+  • Average Lead Time: 6.7 days
+  • Average Guest Income: $95,960
+
+Leisure:
+  • Total Bookings: 431
+  • Conversion Rate: 21.8%
+  • Average Rate: $304.70
+  • Total Revenue: $282,514.37
+  • Average Lead Time: 7.0 days
+  • Average Guest Income: $100,912
+
+Corporate:
+  • Total Bookings: 266
+  • Conversion Rate: 34.8%
+  • Average Rate: $305.99
+  • Total Revenue: $171,293.26
+  • Average Lead Time: 7.3 days
+  • Average Guest Income: $99,627
+
+Business:
+  • Total Bookings: 403
+  • Conversion Rate: 31.3%
+  • Average Rate: $296.41
+  • Total Revenue: $244,252.61
+  • Average Lead Time: 7.0 days
+  • Average Guest Income: $97,083
+
+Government:
+  • Total Bookings: 76
+  • Conversion Rate: 33.5%
+  • Average Rate: $306.76
+  • Total Revenue: $48,728.06
+  • Average Lead Time: 7.1 days
+  • Average Guest Income: $101,619
+

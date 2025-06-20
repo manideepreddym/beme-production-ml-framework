@@ -1,0 +1,69 @@
+# BEME Framework - Unified Requirements (Windows Compatible)
+# Core ML and Data Science
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==2.1.1
+# scipy - Use pre-built wheels for Windows
+scipy>=1.10.0
+
+# Deep Learning and AI (Lightweight versions for Windows)
+# keras==3.6.0  # Skip for initial setup
+# jax[cpu]==0.4.35  # Skip for initial setup  
+# torch>=2.0.0  # Use any compatible version
+transformers>=4.20.0
+
+# MLOps and Model Management
+mlflow>=2.0.0
+mlflow[extras]
+mlserver
+mlserver-mlflow
+evidently>=0.4.0
+# great-expectations==0.18.0  # Skip for initial setup
+
+# API and Web Framework
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+
+# Workflow Orchestration (Optional for development)
+# apache-airflow==2.10.0  # Skip for Windows development
+# apache-airflow-providers-postgres==5.12.0
+# apache-airflow-providers-amazon==8.27.0
+
+# Cloud and Storage
+boto3>=1.30.0
+awscurl
+# s3fs==2024.9.0  # Skip for initial setup
+azure-ai-ml
+azureml-mlflow
+
+# Data Processing and Validation  
+pyarrow>=10.0.0
+# sqlalchemy==2.0.35  # Skip for initial setup
+# psycopg2-binary==2.9.9  # Skip for Windows
+
+# HuggingFace Integration
+huggingface-hub>=0.20.0
+# datasets==3.0.0  # Skip for initial setup
+tokenizers>=0.15.0
+
+# Monitoring and Observability
+# prometheus-client==0.21.0  # Skip for initial setup
+
+# Development and Testing
+pytest
+pytest-asyncio>=0.20.0
+pylint
+# black==24.8.0  # Skip for initial setup
+
+# Data Pipeline Framework
+metaflow
+metaflow-card-html
+
+# Utilities
+packaging
+setuptools
+python-dotenv
+pyyaml>=6.0.0
+click>=8.0.0
+# tqdm==4.66.0  # Skip for initial setup

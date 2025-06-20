@@ -1,0 +1,34 @@
+BEME FRAMEWORK - ML MODEL PERFORMANCE RESULTS
+============================================================
+
+Generated: 2025-06-20 14:29:04
+
+RATE OPTIMIZATION MODEL:
+-------------------------
+Model Type: Random Forest Regressor
+Test MAE: $19.50
+Test R²: 0.932
+Training Samples: 4,000
+Test Samples: 1,000
+
+TOP FEATURE IMPORTANCE (Rate Model):
+  1. guest_income: 0.499
+  2. room_type_encoded: 0.213
+  3. demand_factor: 0.125
+  4. destination_encoded: 0.106
+  5. occupancy_rate: 0.015
+  6. is_holiday: 0.010
+  7. time_on_site_minutes: 0.007
+  8. guest_age: 0.006
+  9. pages_viewed: 0.004
+  10. lead_time_days: 0.003
+
+BOOKING PREDICTION MODEL:
+-------------------------
+Model Type: Random Forest Classifier
+Test Accuracy: 72.3%
+Test F1-Score: 0.028
+Test AUC: 0.580
+Training Samples: 4,000
+Test Samples: 1,000
+
